@@ -25,3 +25,4 @@
  <a href="https://www.linkedin.com/in/eduardo-campos-aguiar-a84167321" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Image](https://github.com/user-attachments/assets/b67733e9-0d77-45ba-88c4-1582db015b47)
+
