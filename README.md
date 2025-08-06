@@ -2,10 +2,10 @@
 **`Software Engineer`**
 
 <a href="https://github-readme-stats.vercel.app/api?username=eduardoaguiarc&show_icons=true&theme=dark">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoaguiarc&show_icons=true&theme=dark"" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoaguiarc&show_icons=true&theme=tokyonight"" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoaguiarc&layout=compact&theme=dark&langs_count=8&card_width=320">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoaguiarc&layout=compact&theme=tokyonight&langs_count=8&card_width=320">
 </a>
 
 <div style="display: inline_block"><br>
