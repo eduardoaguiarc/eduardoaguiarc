@@ -27,4 +27,8 @@
 ![Image](https://github.com/user-attachments/assets/b67733e9-0d77-45ba-88c4-1582db015b47)
 
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardoaguiarc/eduardoaguiarc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardoaguiarc/eduardoaguiarc/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardoaguiarc/eduardoaguiarc/output/github-contribution-grid-snake.svg">
+</picture>
