@@ -24,4 +24,4 @@
  <a href = "mailto:eduardocamposaguiar57@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/eduardo-campos-aguiar-a84167321" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ![Image](https://github.com/user-attachments/assets/c09a2522-4ccc-48b3-aa32-09d882dd52a2) 
+![Image](https://github.com/user-attachments/assets/b67733e9-0d77-45ba-88c4-1582db015b47)
