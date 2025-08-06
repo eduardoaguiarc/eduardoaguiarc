@@ -26,3 +26,5 @@
 
 ![Image](https://github.com/user-attachments/assets/b67733e9-0d77-45ba-88c4-1582db015b47)
 
+![snake gif](https://github.com/eduardoaguiarc/eduardoaguiarc/blob/output/github-contribution-grid-snake.svg)
+
