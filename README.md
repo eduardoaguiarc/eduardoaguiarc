@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 
 ### ☕ Backend
-[![Backend](https://skillicons.dev/icons?i=java,spring,maven,hibernate,gradle&perline=10)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,spring,maven,hibernate,perline=10)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb&perline=10)](https://skillicons.dev)
