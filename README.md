@@ -8,27 +8,6 @@
   </a>
 </div>
 
----
-
-## 🚀 About Me
-
-```java
-public class Eduardo {
-
-    String[] roles     = {"Backend Engineer", "Fullstack Developer"};
-    String   location  = "Salvador, Bahia — Brazil 🇧🇷";
-    String   goal      = "Working internationally 🌍";
-    String[] languages = {"Java", "Python (soon)", "Go (soon)"};
-
-    String[] currentlyLearning = {
-        "Spring Boot", "Microservices", "Docker",
-        "Kubernetes", "AWS", "React"
-    };
-}
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### ☕ Backend
@@ -51,46 +30,3 @@ public class Eduardo {
 
 ### 🔧 Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode,figma&perline=10)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" alt="streak stats"/>
-</div>
-
----
-
-## 🏆 GitHub Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
-</div>
-
----
-
-## 📫 Connect with me
-
-<div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/SEU_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=41DCD2&style=flat-square&label=Profile+Views" />
-</div>
