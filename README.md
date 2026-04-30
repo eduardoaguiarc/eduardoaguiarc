@@ -11,22 +11,5 @@
 ## 🛠️ Tech Stack
 
 ### ☕ Backend
-[![Backend](https://skillicons.dev/icons?i=java,spring,maven,hibernate,perline=10)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql&perline=10)](https://skillicons.dev)
 
-### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb&perline=10)](https://skillicons.dev)
-
-### 🐇 Messaging & APIs
-[![Messaging](https://skillicons.dev/icons?i=rabbitmq,kafka,postman&perline=10)](https://skillicons.dev)
-
-### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=10)](https://skillicons.dev)
-
-### ☁️ DevOps & Cloud
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,terraform,nginx,linux,bash&perline=10)](https://skillicons.dev)
-
-### 📊 Observability
-[![Observability](https://skillicons.dev/icons?i=prometheus,grafana&perline=10)](https://skillicons.dev)
-
-### 🔧 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode,figma&perline=10)](https://skillicons.dev)
