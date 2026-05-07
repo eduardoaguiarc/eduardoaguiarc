@@ -11,5 +11,5 @@
 ## 🛠️ Tech Stack
 
 ### ☕ Backend
-[![Backend](https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql&perline=10)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,spring=10)](https://skillicons.dev)
 
