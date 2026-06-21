@@ -10,6 +10,9 @@
 
 ## 🛠️ Tech Stack
 
-### ☕ Backend
+### Backend
 [![Backend](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
