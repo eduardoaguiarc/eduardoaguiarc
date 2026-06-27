@@ -14,5 +14,5 @@
 [![Backend](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
