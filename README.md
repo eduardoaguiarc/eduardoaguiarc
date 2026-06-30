@@ -9,10 +9,4 @@
 </div>
 
 ## 🛠️ Tech Stack
-
-### Backend
-[![Backend](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
-
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
-
+[![Backend](https://skillicons.dev/icons?i=java,spring,js,html,css,git)](https://skillicons.dev)
