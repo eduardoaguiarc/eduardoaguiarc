@@ -5,7 +5,7 @@
   APIs, segurança, microsserviços, DevOps e IA aplicada
 </p>
 
-## Tecnologias e competências da trilha
+## Tecnologias que tenho experiência
 
 ### Backend e bancos de dados
 
